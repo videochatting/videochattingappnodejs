@@ -1,0 +1,19 @@
+{
+  "name": "video-chatting-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bytes": "^3.1.2",
+    "ejs": "^3.1.9",
+    "express": "^4.17.1",
+    "lib": "^5.0.1",
+    "safer-buffer": "^2.1.2",
+    "socket.io": "^1.2.0"
+  }
+}
